@@ -3,7 +3,10 @@ Miejsce gdzie dzielimy się projektami.
 ## Reguły
 ### Zasady nazywnictwa repozytoriów
 Tworząc repozystorium, trzymajmy się wytycznych. Ułatwi nam to wyszukiwanie i pomoc sobie nawzajem.<br/>
-Wzór: *nazwaPrzedmiotuBezSpacji*_*imie/nick*.<br/>
+Wzór:
+```
+nazwaPrzedmiotuBezSpacji*_*imie/nick*
+```
 Przykład:
 ``` 
 ProgramowanieKomputerow_Marcin 
@@ -11,10 +14,12 @@ ProgramowanieKomputerow_Marcin
  
 ## Opis repozytoriów 
  
-Każde repozystorium musi mieć opis. 
- 
-*SemestrX*, *Przydatne dane przy wyszukiwaniu* 
- 
+Każde repozystorium musi mieć opis.<br/>
+Wzór:
+```
+SemestrX, Przydatne dane przy wyszukiwaniu, itp
+```
+Przykład:
 ```
 Semestr1, Programowanie Kompuuterów, Synak Radtke, Zaliczenie
 ```
