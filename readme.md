@@ -1,11 +1,13 @@
 # GiHub dla studentów WSB rocznik 2018
 Miejsce gdzie dzielimy się projektami.
-## Reguły
+## Reguły 
+ 
+
 ### Zasady nazywnictwa repozytoriów
 Tworząc repozystorium, trzymajmy się wytycznych. Ułatwi nam to wyszukiwanie i pomoc sobie nawzajem.<br/>
 Wzór:
 ```
-nazwaPrzedmiotuBezSpacji*_*imie/nick*
+nazwaPrzedmiotuBezSpacji_imie/nick
 ```
 Przykład:
 ``` 
@@ -21,6 +23,6 @@ SemestrX, Przydatne dane przy wyszukiwaniu, itp
 ```
 Przykład:
 ```
-Semestr1, Programowanie Kompuuterów, Synak Radtke, Zaliczenie
+Semestr1, Programowanie Komputerów, Synak Radtke, Zaliczenie
 ```
 
