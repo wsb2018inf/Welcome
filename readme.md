@@ -2,13 +2,16 @@
 Miejsce gdzie dzielimy się projektami.
 
 ## Jak działa Git i Github
-W uproszczeniu, piszesz kod na komputerze. Skończyłeś pisać kod lub wprowadzać zmiany. Zatwierdzasz to wszystko tworząc tzw. migawkę. Natępnie wysyłasz kod na serwer githuba i wszyscy możemy go zobaczyć, poprawić i skomentować.<br/>
+W uproszczeniu, piszesz kod na komputerze. Skończyłeś pisać kod lub wprowadzać zmiany. Zatwierdzasz to wszystko tworząc tzw. migawkę. Następnie wysyłasz kod na serwer githuba i wszyscy możemy go zobaczyć, poprawić i skomentować.<br/>
 W drugą strone też to działa. Jeżeli ktoś umieścił kod na githubie, to możesz w łatwy sposób ściągnąc go na swój komputer.<br/>
 W Visual Studio jest mechanizm, który ułatwia importowanie i eksportowanie kodu na serwer github.
 
 ## Wymagania
 Każdy musi mieć konto na Githubie. Jest to proste jak zakładanie konta na forum.<br/>
 Po utworzeniu konta, podajcie mi nick/email, to dodam do naszego wspólnego konta na githubie.
+
+## Visual Studio Konfiguracja
+Uruchom Visual Studio. Klikamy górne menu -> Narzędzia -> Rozszeżenia i aktualizacje. W prawym górnym rogu jest wyszukiwaka. Wpisujemy tam "github". W środkowej części okna pojawi sie nam "GitHub Extensions for Visual Studio". Klikamy instaluj. Zamykamy Visual Studio i na wszystko się zgadzamy. Ponownie uruchamiamy Visual Studio. Klikamy górne menu -> zespół -> zarządzaj połączeniami. Pojawi się okno Team Explorer - polączenie. Pod ikonką GitHuba jest mały odnośnik "połącz". Wpisujecie dane potrzebne do logowania i voilà.
 
 ## Zasady nazywnictwa repozytoriów
 Tworząc repozystorium, trzymajmy się wytycznych. Ułatwi nam to wyszukiwanie i pomoc sobie nawzajem.<br/>
