@@ -14,8 +14,7 @@ Przykład:
 ProgramowanieKomputerow_Marcin 
 ```
  
-## Opis repozytoriów 
- 
+### Opis repozytoriów
 Każde repozystorium musi mieć opis.<br/>
 Wzór:
 ```
