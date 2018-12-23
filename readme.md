@@ -3,8 +3,7 @@ Miejsce gdzie dzielimy się projektami.
 ## Reguły
 ### Zasady nazywnictwa repozytoriów
 Tworząc repozystorium, trzymajmy się wytycznych. Ułatwi nam to wyszukiwanie i pomoc sobie nawzajem.<br/>
-Wzór:<br/>
-*nazwaPrzedmiotuBezSpacji*_*imie/nick*.<br/>
+Wzór: *nazwaPrzedmiotuBezSpacji*_*imie/nick*.<br/>
 Przykład:
 ``` 
 ProgramowanieKomputerow_Marcin 
