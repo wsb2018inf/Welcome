@@ -13,6 +13,9 @@ Po utworzeniu konta, podajcie mi nick/email, to dodam do naszego wspólnego kont
 ## Visual Studio Konfiguracja
 Uruchom Visual Studio. Klikamy górne menu -> Narzędzia -> Rozszeżenia i aktualizacje. W prawym górnym rogu jest wyszukiwaka. Wpisujemy tam "github". W środkowej części okna pojawi sie nam "GitHub Extensions for Visual Studio". Klikamy instaluj. Zamykamy Visual Studio i na wszystko się zgadzamy. Ponownie uruchamiamy Visual Studio. Klikamy górne menu -> zespół -> zarządzaj połączeniami. Pojawi się okno Team Explorer - polączenie. Pod ikonką GitHuba jest mały odnośnik "połącz". Wpisujecie dane potrzebne do logowania i voilà.
 
+## Ściąganie projektów
+W oknie Team Explorer (menu główne/widok/team explorer) w górnej części jest 5 ikonek. Klikamy na zieloną wtyczkę (team explorer - polączenie). Pod nazwą GitHub, jest odnośnik "Clone". Klikamy go. Otworzy się nam okno "Open from Gihub". Klikamy na Github.com i naszym oczom ukazują się wszystkie repozytoria. Jeżeli dodałem was do naszego wspólnego githuba, to powinno być na tej liście co najmniej jedno repozytorium "wsb2018inf/ProgramowanieKomputerow_Marcin". Zaznaczamy je i klikamy "Clone". W tym momencie kod jest na waszym dysku i możecie nad nim pracować (powinien się wyśiwtlić w oknie "eksploarator rozwiązań").
+
 ## Zasady nazywnictwa repozytoriów
 Tworząc repozystorium, trzymajmy się wytycznych. Ułatwi nam to wyszukiwanie i pomoc sobie nawzajem.<br/>
 Wzór:
