@@ -4,6 +4,7 @@ Miejsce gdzie dzielimy się projektami.
 ### Zasady nazywnictwa repozytoriów
 Tworząc repozystorium, trzymajmy się wytycznych. Ułatwi nam to wyszukiwanie i pomoc sobie nawzajem.
 *nazwaPrzedmiotuBezSpacji*_*imie/nick*
+Przykład:
 ``` 
 ProgramowanieKomputerow_Marcin 
 ```
