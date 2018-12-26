@@ -15,7 +15,9 @@ Uruchom Visual Studio. Klikamy górne menu -> Narzędzia -> Rozszeżenia i aktua
 
 ## Ściąganie projektów
 W oknie Team Explorer (menu główne/widok/team explorer) w górnej części jest 5 ikonek. Klikamy na zieloną wtyczkę (team explorer - polączenie). Pod nazwą GitHub, jest odnośnik "Clone". Klikamy go. Otworzy się nam okno "Open from Gihub". Klikamy na Github.com i naszym oczom ukazują się wszystkie repozytoria. Jeżeli dodałem was do naszego wspólnego githuba, to powinno być na tej liście co najmniej jedno repozytorium "wsb2018inf/ProgramowanieKomputerow_Marcin". Zaznaczamy je i klikamy "Clone". W tym momencie kod jest na waszym dysku i możecie nad nim pracować (powinien się wyśiwtlić w oknie "eksploarator rozwiązań").  
+
 **Jeżeli ściągniecie kod, który ktoś inny jest autorem, koniecznie utwurzcie swoją gałąź!**  
+
 Po ściągniuciu ("Clone") repozytorium z githuba, w prawym dolnym rogu Visual Studio (niebieska belka), widnieje słówko "master" ze strzałeczką do góry.Po kliknieciu w nią, rozwija się menu. Wybieracie "Nowa gałąź...". W nazwie gałęzi wpisujecie swoje imię lub nick i zatwierdzacie utworzenie gałęzi. Za każdym razem, gdy pracujecie z tym kodem, sprawdzajcie czy jesteście na swojej gałęzi.
 
 ## Zasady nazywnictwa repozytoriów
